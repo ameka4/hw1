@@ -4,6 +4,6 @@
 
 
 int main(int argc,char* argv[]){
-  printf("this is probably the worst skeleton code ever\n");
+  printf("ameka4\n");
   return 0;
 }
